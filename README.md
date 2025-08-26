@@ -1,2 +1,2 @@
 # Sellaro
-https://github.com/ItisTJ/my-app , https://github.com/ItisTJ/my-app.git             
+https://github.com/2000Thisara/server.git , https://github.com/ItisTJ/my-app.git             
